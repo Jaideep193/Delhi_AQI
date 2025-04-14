@@ -9,7 +9,7 @@ This project analyzes the air quality index (AQI) in Delhi using historical data
 - Forecasting and error metrics (MAE, RMSE)
 
 ## Data Source
-The dataset is based on daily AQI values collected from Delhi from 2015 to 2023.
+The dataset is based on daily AQI values collected from Delhi.
 
 ## How to Run
 ```bash
